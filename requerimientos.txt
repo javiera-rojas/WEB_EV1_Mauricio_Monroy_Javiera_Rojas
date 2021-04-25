@@ -1,0 +1,29 @@
+Una pizzería decide desarrollar una página web para que los usuarios conozcan sus productos. El
+objetivo es mostrar su oferta gastronómica y las diferentes promociones disponibles.
+Para este propósito le piden al equipo de desarrollar la página web que debe cumplir con los
+siguientes requerimientos:
+    • Todas las páginas deben tener un menú de navegación en la parte superior.
+    • En la cabecera de la página debe incluir el nombre de la pizzería o el logo correspondiente
+    • En la parte superior de la página se debe incluir un párrafo que describa la propuesta de
+        valor del negocio con una foto. Debe incluir de forma destacada el teléfono de la pizzería
+    • En la página principal debe incluir un carrusel con tres promociones destacadas
+    • Los usuarios pueden navegar por las diferentes categorías de producto: premium,
+        vegetarianas y sabores del mundo.
+    • Bajo el carrusel se debe incluir una sección que describa las tres categorías de producto.
+    • Se debe construir al menos una ficha de pizza por categoría. La ficha debe considerar
+    o Fotografía de la pizza optimizada para web
+    o Listado de ingredientes a través de una lista no numerada
+    o Valor nutricional de la pizza
+    o Precio (texto destacado)
+    • En el pie de página debe incluir los datos de contacto de la pizzería incluyendo el teléfono. 
+        Consideraciones técnicas
+    • Se puede usar bootstrap para la creación del sitio, sin embargo, se debe incluir una hoja de
+        estilo personalizada con al menos tres propiedades CSS
+    • El diseño debe ser responsive
+    • El trabajo debe ser en equipo y deben quedar registrados cada uno de los commits de los
+        integrantes en el repositorio del proyecto
+    Productos
+    • Informe y/o presentación con las consideraciones para el desarrollo del proyecto
+    o Debe adjuntar wireframe y argumentar las decisiones considerando los elementos
+        básicos de UX
+    o Especificar las tecnologías usadas y argumentar sus decisiones
