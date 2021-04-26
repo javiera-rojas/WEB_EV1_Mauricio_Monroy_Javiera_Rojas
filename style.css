@@ -1,0 +1,32 @@
+#jumboContainer{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/041/406/non_2x/pizza-and-vegetables-on-dark-kitchen-backdrop-vector.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#dir{
+    color: whitesmoke;
+    font-size: x-large;
+    font-family: Brush Script MT;
+    margin-top: 25px; 
+}
+
+.carousel-inner {
+
+    max-height: 600px;
+    max-width: 1200px;    
+}
+#letrascarrusel{
+    color: rgb(2, 126, 45);
+    font-family: Brush Script MT;
+    font-size: xx-large;
+    font-weight: 800;
+    background-color: rgba(70, 70, 70, 0.308);
+}
+#letrascarruse2{
+    color: rgb(192, 3, 3);
+    font-family: Brush Script MT;
+    font-size: x-large;
+    font-weight: 600;
+    background-color: rgba(70, 70, 70, 0.308);
+}
